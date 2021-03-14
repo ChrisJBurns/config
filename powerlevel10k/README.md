@@ -7,6 +7,7 @@ Tools:
  - https://github.com/nvm-sh/nvm
  - https://rvm.io/
  - https://doc.rust-lang.org/cargo/getting-started/installation.html
+ - Visual Studio Code Settings File: `settings.json`
  - Visual Studio Code Extentions:
     - ms-azuretools.vscode-docker
     - ms-vscode-remote.remote-containers
@@ -22,3 +23,4 @@ Tools:
     - vscjava.vscode-maven
     - vscode-icons-team.vscode-icons
     - wholroyd.HCL
+
