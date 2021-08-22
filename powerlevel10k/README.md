@@ -1,5 +1,7 @@
 # Config setup
 
+Will need Nerd Fonts: https://github.com/ryanoasis/nerd-fonts
+
 Tools:
  - https://github.com/athityakumar/colorls#installation
  - https://github.com/pygments/pygments
